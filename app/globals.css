@@ -15,3 +15,9 @@ html {
 svg {
     color: white
 }
+
+#box {
+    box-shadow: 10px 10px 166px 143px rgba(45,49,77,0.75);
+    -webkit-box-shadow: 10px 10px 166px 143px rgba(45,49,77,0.75);
+    -moz-box-shadow: 10px 10px 166px 143px rgba(45,49,77,0.75);
+}

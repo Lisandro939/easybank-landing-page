@@ -7,9 +7,9 @@ import FourthImage from '../public/images/image-confetti.jpg'
 
 export default function LatestArticles() {
   return (
-    <div className='max-w-5xl w-full h-full flex flex-col gap-16 mb-20'>
+    <div className='max-w-5xl w-full h-full flex flex-col gap-16 mb-20 sm:items-center'>
         <h2 className='text-4xl text-[rgb(45,49,77)]'>Latest Articles</h2>
-        <div className='flex flex-row gap-6'>
+        <div className='flex flex-row gap-6 sm:flex-col'>
             <ArticleCard 
             image={FirstImage} 
             by="Claire Robinson" 
