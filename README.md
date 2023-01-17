@@ -1,3 +1,3 @@
-Task list 
+Frontend Mentor Proyect
 
-- [ ] Make mobile adaptation
+Check the website here / Mirá el sitio web aquí: https://easybank-landingpage-lilac.vercel.app/
